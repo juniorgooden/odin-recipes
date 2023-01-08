@@ -1,2 +1,1 @@
-Jerk chicken is a very popular food in Jamaica.
-Here you will learn the recipe and preparation.
+This project will demonstrate my basic html and github skills.
