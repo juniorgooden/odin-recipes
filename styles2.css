@@ -1,0 +1,17 @@
+.same{
+    background-color: #ffb6c1;
+    font-family: Verdana,"DejaVu Sans", sans-serif;
+}
+#big{
+    color: rgb(0, 0, 127);
+    font-size: 36px;
+}
+.three{
+    font-size: 24px;
+}
+#different{
+    background-color:hsl(120 73% 75%) ;
+    font-size: 24px;
+    font-weight: bold;
+
+}
